@@ -1,44 +1,70 @@
-# Evan Dong
+<h1 align="center">Hi my name is Evan</h1>
 
-Computer Science & Biochemistry student at NYU Tandon  
-Building full-stack systems, computational tools, and bridging software with real-world impact.
-
----
-
-### 📌 Connect with me  
-[Portfolio](https://your-portfolio-link.com) | [LinkedIn](https://www.linkedin.com)  
-
----
-
-### 🛠️ Skills & Tools  
-**Languages:** Python · TypeScript · JavaScript · C++ · Java · SQL  
-**Frameworks / Libraries:** React · Next.js · Flask · TensorFlow · OpenCV  
-**Databases / Platforms:** Supabase · PostgreSQL · MongoDB · AWS · Docker  
-**Focus Areas:** Full-stack engineering · Data modelling · Computer vision · VR learning systems  
+<p align="center">
+Computer Science & Biochemistry @ NYU  
+<br>
+Full stack development, embedded systems, and machine learning
+<br>
+Portfolio: <a href="https://evandong.vercel.app">Personal Portfolio</a>
+</p>
 
 ---
 
-### 🧩 Selected Projects  
-**EzeTracker** — Job application tracking platform with Next.js, TypeScript & Supabase.  
-**AcneScan** — Deep-learning acne classification (TensorFlow, MobileNetV2) with React + Flask.  
-**Airport DB System** — Designing relational schemas, indexing and caching with REST APIs.  
-**Autonomous Tennis Robot** — Raspberry Pi + OpenCV pipeline for ball tracking and real-time vision.
+### Links  
+<p>
+  <a href="https://www.linkedin.com/in/evan-dong-696b30332/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+  </a>
+</p>
 
 ---
 
-### 🔍 Currently Working On  
-- Web platform development for HackNYU  
-- VR collaboration tools for education  
-- Backend + database infrastructure design  
-- Preparing for sophomore-level internships  
+### Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="48"/>
+  <img src="https://skillicons.dev/icons?i=java" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sql" height="48"/>
+</p>
 
 ---
 
-If you like, I can generate:  
-- version with icons next to each link/skill  
-- dark-mode friendly version  
-- one that automatically shows your GitHub stats (contributions graph, top languages)  
-- a theme-customized version aligned with your personal branding  
+### Tech & Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" height="48"/>
+  <img src="https://skillicons.dev/icons?i=flask" height="48"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="48"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="48"/>
+</p>
 
-Which would you prefer?
-::contentReference[oaicite:1]{index=1}
+---
+
+### AI / ML Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="48"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" height="48"/>
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="48"/>
+  <img src="https://skillicons.dev/icons?i=opencv" height="48"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" />
+
+</div>
+
+---
+
